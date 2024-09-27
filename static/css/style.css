@@ -1,0 +1,119 @@
+.hero{
+    height: 100vh;
+    background: url('/static/images/bike.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero h1{
+    color: black;
+    font-size: 6rem;
+    
+}
+.hero{
+background-image: url('/static/images/bike.jpg');
+background-size: cover;
+background-position: center;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+columns: white;
+}
+.as{
+    background-color: rgb(233, 236, 235);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
